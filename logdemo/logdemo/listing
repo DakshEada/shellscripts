@@ -1,0 +1,22 @@
+total 136
+drwxr-xr-x  20 root       staff   640 Mar  4 12:57 .
+drwx------+ 81 daksheada  staff  2592 Mar  3 20:46 ..
+-rwxrwxrwx   1 root       staff   224 Feb  7 18:50 age.sh
+-rwxr-xr-x   1 root       staff   239 Feb  7 15:59 array.sh
+-rwxr-xr-x   1 root       staff   114 Feb 25 22:23 compare.sh
+-rwxr-xr-x   1 root       staff   348 Feb  7 16:24 comparisons.sh
+-rwxr-xr-x   1 root       staff   358 Feb  8 12:30 discount.sh
+-rw-r--r--   1 root       staff    79 Feb  9 14:16 favorite_food.txt
+-rwxrwxrwx   1 root       staff   112 Feb  8 12:44 filecheck.sh
+-rwxr-xr-x   1 root       staff    87 Feb  8 12:47 fileconditions.sh
+-rwxr-xr-x   1 root       staff   101 Feb  7 18:42 forex.sh
+-rw-r--r--   1 root       staff  2019 Feb  8 14:50 format.txt
+-rwxrwxrwx   1 root       staff   158 Feb  6 18:37 ifuname.sh
+-rw-r--r--   1 root       staff   780 Feb 25 22:21 instaljava.sh
+-rwxr-xr-x   1 root       staff   138 Feb 10 15:19 instance.py
+-rwxrwxrwx   1 root       staff     0 Mar  4 13:31 listing
+-rwxr-xr-x   1 root       staff   531 Feb 16 21:59 os.sh
+-rw-r--r--   1 root       staff   516 Feb  8 14:54 search.txt
+-rwxr-xr-x   1 root       staff   182 Feb  7 16:08 validpaswd.sh
+-rwxr-xr-x   1 root       staff   103 Feb  7 13:00 variable.sh
+new line

@@ -1,0 +1,2 @@
+sed maintains two data buffers: the active pattern space, and the auxiliary hold space. Both are initially empty.
+sed operates by performing the following cycle on each line of input: first, sed reads one line from the input stream, removes any trailing newline, and places it in the pattern space. Then commands are executed; each command can have an address associated to it: addresses are a kind of condition code, and a command is only executed if the condition is verified before the command is to be executed.
